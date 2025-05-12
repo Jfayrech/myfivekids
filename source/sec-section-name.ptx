@@ -14,6 +14,10 @@
       This early section has really grown and tries to accomplish many things.
       Not all of them are listed here.
     </p>
+
+    <p>
+      The equation <m>f(x)= tan^2 x</m>
+    </p>
   </introduction>
   <ol>
     <li xml:id="objective-structure">
