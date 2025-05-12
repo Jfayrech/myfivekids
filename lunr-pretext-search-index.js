@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Section Title",
-  "body": " Section Title  Text of section.   Fundamental Structures   This is an <objectives> element you are reading, and this is its introduction. This early section has really grown and tries to accomplish many things. Not all of them are listed here.    Display various blocks , fundamental units of the flow.  More.  Evermore.    This concludes the (incomplete) objectives for this section, so now we can carry-on as before.    "
+  "body": " Section Title  Text of section.   Fundamental Structures   This is an <objectives> element you are reading, and this is its introduction. This early section has really grown and tries to accomplish many things. Not all of them are listed here.  The equation     Display various blocks , fundamental units of the flow.  More.  Evermore.    This concludes the (incomplete) objectives for this section, so now we can carry-on as before.    "
 },
 {
   "id": "objectives-structures",
@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Objectives",
   "number": "1.1",
   "title": "Fundamental Structures",
-  "body": " Fundamental Structures   This is an <objectives> element you are reading, and this is its introduction. This early section has really grown and tries to accomplish many things. Not all of them are listed here.    Display various blocks , fundamental units of the flow.  More.  Evermore.    This concludes the (incomplete) objectives for this section, so now we can carry-on as before.   "
+  "body": " Fundamental Structures   This is an <objectives> element you are reading, and this is its introduction. This early section has really grown and tries to accomplish many things. Not all of them are listed here.  The equation     Display various blocks , fundamental units of the flow.  More.  Evermore.    This concludes the (incomplete) objectives for this section, so now we can carry-on as before.   "
 },
 {
   "id": "backmatter-2",
